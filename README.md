@@ -1,7 +1,7 @@
 # CD18: Cellphone Dataset with 18 Features
 
 ## Multimodal_price_prediction_dataset
-dataset of Multimodal price prediction article
+Dataset of Multimodal price prediction article
 
 
 DOI = [10.1007/s40745-021-00326-z](https://doi.org/10.1007/s40745-021-00326-z)
